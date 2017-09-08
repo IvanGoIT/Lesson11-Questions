@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class RealtimeExample {
+    public static void main(String[] args) {
+
+    }
 }
